@@ -6,6 +6,7 @@ import base64
 import sys
 import getopt
 
+
 qtd=6
 username=''
 password=''
